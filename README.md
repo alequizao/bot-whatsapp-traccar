@@ -16,5 +16,7 @@ Em traccar.xml você deve adicionar:
 Instalação:
 
 git clone https://github.com/alequizao/bot-whatsapp-traccar
+
 cd bot-whatsapp-traccar
+
 npm install --force --save && npm start
