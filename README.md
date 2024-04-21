@@ -3,8 +3,11 @@
 Para instalar:
 
 git clone https://github.com/alequizao/bot-whatsapp-traccar
+
 cd bot-whatsapp-traccar
+
 npm install --force --save
+
 node index.js
 
 Em traccar.xml você deve adicionar:
