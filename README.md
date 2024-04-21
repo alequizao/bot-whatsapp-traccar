@@ -8,7 +8,7 @@ cd bot-whatsapp-traccar
 
 npm install --force --save
 
-node index.js
+npm start
 
 Em traccar.xml você deve adicionar:
 
